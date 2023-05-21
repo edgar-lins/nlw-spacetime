@@ -8,7 +8,7 @@ Projeto desenvolvido no curso Explorer da rocketseat
 
 ![preview](./.github/preview.png)
 
-[🔗 Clique aqui para acessar](https://edgar-lins.github.io/rocketseat-explorer-desafio-avancado/)
+[🔗 Clique aqui para acessar](https://edgar-lins.github.io/nlw-spacetime/)
 
 ## 🛠 Tecnologias
 
